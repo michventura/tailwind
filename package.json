@@ -1,13 +1,12 @@
 {
-  "name": "tailbuild",
+  "name": "tailwind-react",
   "version": "1.0.0",
-  "description": "Tailwind components",
-  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "tailwindcss": "1.7.1"
   },
   "devDependencies": {
     "typescript": "3.8.3"
